@@ -1,4 +1,4 @@
-# Bayesian-inference-and-variant-identification-in-meta-genomic-data-
+# Bayesian-inference-and-variant-identification-in-meta-genomic-data
 
 # M1 Internship — INRAE Paris
 
